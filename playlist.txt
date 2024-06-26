@@ -1,0 +1,100 @@
+Jai Balayya Akhanda
+thaman
+geetha madhuri
+Akhanda
+boyapati
+balakrishna
+anantha sriram
+./SONGS/Jai Balayya Akhanda.mp3
+./IMAGES/Jai Balayya Akhanda.jpg
+7
+Jai Balayya Vsr
+thaman
+kareemullah
+VSR
+gopichand mallineni
+balakrishna
+ramajogayya sastry
+./SONGS/Jai Balayya Vsr.mp3
+./IMAGES/Jai Balayya Vsr.jpg
+4
+Beast Mode
+anirudh
+anirudh
+Beast
+nelson
+THALAPATHY
+vivek
+./SONGS/Beast Mode.mp3
+./IMAGES/Beast Mode.jpg
+3
+Vaathi Coming
+anirudh
+ganabalachandar
+Mater
+lokesh
+THALAPATHY
+ganabalachandar
+./SONGS/Vaathi Coming.mp3
+./IMAGES/Vaathi Coming.jpg
+1
+Celebration of Varisu
+thaman
+thaman
+Varisu
+vamsi
+THALAPATHY
+vivek
+./SONGS/Celebration of Varisu.mp3
+./IMAGES/Celebration of Varisu.jpg
+1
+Jimikki Ponnu
+thaman
+jonitha
+varisu
+vamsi
+THALAPATHY
+vivek
+./SONGS/Jimikki Ponnu.mp3
+./IMAGES/Jimikki Ponnu.jpg
+1
+Ranjithame
+thaman
+mm manasi
+varisu
+vamsi
+THALAPATHY
+vivek
+./SONGS/Ranjithame.mp3
+./IMAGES/Ranjithame.jpg
+1
+Vaa Thalaiva
+thaman
+shankar mahadevan
+varisu
+vamsi
+THALAPATHY
+vivek
+./SONGS/Vaa Thalaiva.mp3
+./IMAGES/Vaa Thalaiva.jpg
+1
+Vikram
+anirudh
+anirudh
+vikram
+lokesh
+kamal hasan
+vishnu edavan
+./SONGS/Vikram.mp3
+./IMAGES/Vikram.jpg
+1
+Arabic Kuthu
+anirudh
+anirudh
+Beast
+nelson
+THALAPATHY
+siva karthikeyan
+./SONGS/Arabic Kuthu.mp3
+./IMAGES/Arabic Kuthu.jpg
+0
