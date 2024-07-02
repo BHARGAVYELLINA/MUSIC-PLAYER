@@ -58,10 +58,6 @@ class DoublyCircularLinkedList {
 
 const track = new DoublyCircularLinkedList();
 
-track.addSong("Arabic Kuthu", "THALAPATHY", "Image URL", "Arabic Kuthu.mp3");
-track.addSong("AKHANDA", "bhargav", "Image URL", "jai balayya(AKHANDA).mp3");
-track.addSong("VSR", "madhav", "Image URL", "jai balayya(VSR).mp3");
-
 function loadTrack(track_index) {
     clearInterval(updateTimer);
     resetValues();
