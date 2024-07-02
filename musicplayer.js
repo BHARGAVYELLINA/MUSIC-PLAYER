@@ -58,9 +58,9 @@ class DoublyCircularLinkedList {
 
 const track = new DoublyCircularLinkedList();
 
+track.addSong("Arabic Kuthu", "THALAPATHY", "Image URL", "Arabic Kuthu.mp3");
 track.addSong("AKHANDA", "bhargav", "Image URL", "jai balayya(AKHANDA).mp3");
 track.addSong("VSR", "madhav", "Image URL", "jai balayya(VSR).mp3");
-track.addSong("Shipping Lanes", "Chad Crouch", "Image URL", "Shipping_Lanes.mp3");
 
 function loadTrack(track_index) {
     clearInterval(updateTimer);
@@ -122,6 +122,12 @@ let curr_track = document.createElement('audio');
 
 let track_list = [
     {
+        name: "Arabic Kuthu",
+        artist: "THALAPATHY",
+        image: "IMAGES/Arabic Kuthu.jpg",
+        path: "SONGS/Arabic Kuthu.mp3",
+    },
+    {
         name: "AKHANDA",
         artist: "balakrishna",
         image: "IMAGES/Jai Balayya Akhanda.jpg",
@@ -132,12 +138,6 @@ let track_list = [
         artist: "balakrishna",
         image: "IMAGES/Jai Balayya Vsr.jpg",
         path: "SONGS/Jai Balayya Vsr.mp3"
-    },
-    {
-        name: "Arabic Kuthu",
-        artist: "THALAPATHY",
-        image: "IMAGES/Arabic Kuthu.jpg",
-        path: "SONGS/Arabic Kuthu.mp3",
     },
 ];
 
