@@ -124,6 +124,24 @@ let track_list = [
         path: "SONGS/Arabic Kuthu.mp3",
     },
     {
+        name: "Beast Mode",
+        artist: "THALAPATHY",
+        image: "IMAGES/Beast Mode.jpg",
+        path: "SONGS/Beast Mode.mp3",
+    },
+    {
+        name: "Celebration of Varisu",
+        artist: "THALAPATHY",
+        image: "IMAGES/Celebration of Varisu.jpg",
+        path: "SONGS/Celebration of Varisu.mp3",
+    },
+    {
+        name: "Vaathi Coming",
+        artist: "THALAPATHY",
+        image: "IMAGES/Vaathi Coming.jpg",
+        path: "SONGS/Vaathi Coming.mp3",
+    },
+    {
         name: "AKHANDA",
         artist: "balakrishna",
         image: "IMAGES/Jai Balayya Akhanda.jpg",
